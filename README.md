@@ -4,4 +4,4 @@
 
 ## 1st Study
 
-모던자바스크립트 Deepdive
+모던자바스크립트 Deepdive(26.04.20~ )
